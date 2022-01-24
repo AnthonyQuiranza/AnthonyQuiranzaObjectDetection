@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Hoja (2).JPG</filename>
+	<path>C:\Users\MyHP\OneDrive - Universidad Politécnica Estatal del Carchi\UNIVERSIDAD POLITÉCNICA ESTATAL DEL CARCHI\NOVENO SEMESTRE\TESIS\DetecciónDeObjetos\images\Hoja (2).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hoja</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>42</ymin>
+			<xmax>245</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>
